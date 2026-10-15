@@ -1,0 +1,5 @@
+node_modules/
+.hyperframes/
+# music is not redistributed here (licence unverified); add your own, see README
+landscape/composition/assets/music/
+vertical/work/

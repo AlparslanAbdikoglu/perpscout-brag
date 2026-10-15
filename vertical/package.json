@@ -1,0 +1,6 @@
+{
+  "name": "perpscout-brag-vertical",
+  "private": true,
+  "type": "module",
+  "dependencies": { "puppeteer-core": "^24.0.0" }
+}
