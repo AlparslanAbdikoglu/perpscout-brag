@@ -30,3 +30,4 @@ Most prop-firm challenge attempts fail. PerpScout lays out the fees, drawdown ru
 
 - The numbers in post 1 are the site's own calculator with its default inputs (5000 account, $60 fee, 10% target, 80% split) and max drawdown changed from 6% to 3%.
 - Affiliate disclosure on the site applies; keep referral links out of these posts.
+- Music credit (CC BY 4.0): add "Music: Happy Beats / Business Moves by ende.app, CC BY 4.0" where the platform allows it (YouTube description, a reply, the pinned post). A tweet cannot always fit it; the landing page footer carries it too.

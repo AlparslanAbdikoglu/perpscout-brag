@@ -7,11 +7,12 @@ Promo assets for [PerpScout](https://perpscout.cc), the crypto prop firm directo
 | `still/calculator.jpg` | The odds-calculator frame (38% → 23%) for the first tweet |
 | `landscape/` | 23.5s deadpan video, 1920x1080. Made with the `/brag` skill + HyperFrames. Has the editable composition |
 | `vertical/` | 20s vertical video, 1080x1920. Made with `/brag-slim`. Drives the **live** site and records it |
+| `site/` | One-page landing site (MVP) selling launch videos. See `site/README.md` |
 | `posts.md` | Tweet copy and the posting schedule |
 
 ## Music
 
-The videos use a bundled "Happy Beats / Business Moves" track by ende.app. Its licence is unverified, so **the mp3 is not in this repo**, only the finished videos. To rebuild anything, use your own licensed track.
+The videos use "Happy Beats / Business Moves" by [ende.app](https://ende.app/en), which the author publishes under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) (free, commercial use included, **credit required**). Credit line: *Music: "Happy Beats / Business Moves" by ende.app, CC BY 4.0.* Put it in the video description, post or page footer. The mp3 is still not stored in this repo; only the finished videos are. To rebuild, download the track from ende.app or use your own. Check the licence on the track's own page before relying on it.
 
 ## Use it without AI (plain terminal)
 
